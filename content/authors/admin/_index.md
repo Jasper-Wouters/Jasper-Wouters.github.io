@@ -1,43 +1,45 @@
 ---
 # Display name
-title: 吳健雄
+title: Jasper Wouters
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jasper
+last_name: Wouters
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👨‍💻️➕🧬➕☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Senior Scientist Computational Biology
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: GenCoin
-    url: https://www.example.com/
+  - name: Galapagos
+    url: https://www.glpg.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: ''
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://x.com/Wouters_J_
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Jasper-Wouters
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.linkedin.com/in/jasperwouters/
+  - icon: brands/orcid
+    url: https://orcid.org/0000-0002-7129-2990
+  - icon: brands/google-scholar
+    url: https://scholar.google.be/citations?user=o4cwp7AAAAAJ&hl=en
 
 education:
   - area: PhD Artificial Intelligence
