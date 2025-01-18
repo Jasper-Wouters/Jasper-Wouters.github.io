@@ -45,7 +45,7 @@ sections:
     content:
       title: Languages
       username: admin
-  - block: contact
+  - block: markdown
     id: contact
     content:
       title: Contact
