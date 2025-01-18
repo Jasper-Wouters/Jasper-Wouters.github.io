@@ -1,5 +1,5 @@
 ---
-title: 'Resume'
+title: 'Résumé Jasper Wouters'
 date: 2025-01-18
 type: landing
 
@@ -21,7 +21,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
+        filename: iStock-808511278.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
