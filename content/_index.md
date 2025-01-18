@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'Resume'
+date: 2025-01-18
 type: landing
 
 design:
