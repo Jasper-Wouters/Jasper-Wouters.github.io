@@ -89,15 +89,13 @@ work:
     date_start: 2016-08-01
     date_end: 2022-03-30
     summary: |
-      {{< spoiler text="Responsibilities include:" >}}
+      Responsibilities include:
       - Manage multiple cancer research collaborations, with academic and industry partners
       - Implement NGS technologies (e.g. CROP-seq, 10X Chromium single-cell RNA-seq, 10X Chromium phased whole-genome DNA-seq)
       - Supervise (co-promoter of) 2 PhD students
-      {{< /spoiler >}}
       
-      {{< spoiler text="Achievements/milestones:" >}}
-      - test
-      {{< /spoiler >}}
+      Achievements/milestones:
+      - tes
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
