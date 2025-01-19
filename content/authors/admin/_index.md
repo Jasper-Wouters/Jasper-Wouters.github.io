@@ -28,8 +28,8 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
    - icon: at-symbol
-     url: 'mailto:jasper_wouters_contact@proton.me'
-     label: E-mail Me
+      url: 'mailto:jasper_wouters_contact@proton.me'
+      label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jasperwouters/
   - icon: brands/github
@@ -98,7 +98,7 @@ work:
       {{< ach text="Achievements/milestones:" >}}
       - test
       {{< /ach >}}
-      
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
