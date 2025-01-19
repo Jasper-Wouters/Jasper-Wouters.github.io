@@ -79,9 +79,15 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Coordinate bioinformatics for Cell Therapy area
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Coordinate and manage bioinformatics support for the Cell Therapy research area
+      - Data-driven target identification 
+      - BD asset evaluation
+      - Assist in drug target discovery projects by analysing (single-cell) transcriptomics experiments
+
+      Achievements/milestones:
+      - Analysis workflow for data-driven (single and combo) target identification 
+      - Identified several potential targets, with two successfully integrated into the company's pipeline
+
   - position: Senior Postdoctoral Scientist
     company_name: Lab of Computational Biology @ VIB
     company_url: 'https://aertslab.org/'
@@ -101,7 +107,7 @@ work:
       - 3-year scholarship of Kom op tegen Kanker (1 of 3 scholarships) (€225K)
       - 3-year research grant of The Harry J. Lloyd Charitable Trust (US; $130K)
       - 2 first-author and 10 co-author papers (4 as second-last author)
-      - Invited speaker at the 10X Chromium scRNA-seq workshop (2017; Ghent), at the Bioinformatics Interest Group meeting (2018; Leuven), at the Melanoma Workshop 2019 (Otranto) and at the CCB-VIB Cancer Seminars (2019).
+      - Invited speaker at the 10X Chromium scRNA-seq workshop (2017; Ghent), at the Bioinformatics Interest Group meeting (2018; Leuven), at the Melanoma Workshop 2019 (Otranto) and at the CCB-VIB Cancer Seminars (2019)
   - position: Marie Skłodowska-Curie Postdoctoral Scientist
     company_name: 1 year @ University College Dublin – Oncomark Ltd., Dublin & 1 year @ Dept. of Imaging & Pathology, KU Leuven
     company_url: ''
@@ -155,7 +161,7 @@ work:
       
 
 # # Skills
-# # Add your own SVG icons to `assets/media/icons/`
+# # Add your own SVG icons to `assets/media/icons/` [see also: https://docs.hugoblox.com/getting-started/page-builder/#icons]
 # skills:
 #   - name: Technical Skills
 #     items:
@@ -192,7 +198,7 @@ languages:
   - name: Dutch
     percent: 100
   - name: English
-    percent: 100
+    percent: 90
   - name: French
     percent: 50
 
@@ -229,4 +235,4 @@ languages:
 
 ---
 
-SUMMARY: I am currently Senior Scientist Computational Biology at Galapagos where I am responsible for the Cell Therapy area.
+I am currently Senior Scientist Computational Biology at Galapagos where I am responsible for the Cell Therapy area.
