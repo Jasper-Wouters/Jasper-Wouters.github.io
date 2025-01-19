@@ -79,7 +79,7 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Cell Therapy area
+      - Coordinate bioinformatics for Cell Therapy area
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Senior Postdoctoral Scientist
@@ -90,12 +90,19 @@ work:
     date_end: 2022-03-30
     summary: |
       Responsibilities include:
-      - Manage multiple cancer research collaborations, with academic and industry partners
+      - Manage multiple research collaborations, with academic and industry partners
+      - Lead computational investigations into melanoma cell states ([see paper](https://www.nature.com/articles/s41556-020-0547-3))
       - Implement NGS technologies (e.g. CROP-seq, 10X Chromium single-cell RNA-seq, 10X Chromium phased whole-genome DNA-seq)
       - Supervise (co-promoter of) 2 PhD students
+      - Teach "_Bioinformatics and Systems Biology: Expression, Regulation and Networks_" (2nd Master of Biomedical Sciences)
       
       Achievements/milestones:
-      - tes
+      - 4-year scholarship of Stichting tegen Kanker (1 of 10 scholarships) (~€400K)
+      - 3-year scholarship of Kom op tegen Kanker (1 of 3 scholarships) (€225K)
+      - 3-year research grant of The Harry J. Lloyd Charitable Trust (US; $130K)
+      - 2 First author and 10 co-author papers (4 as second-last author)
+      - Invited speaker at the 10X Chromium scRNA-seq workshop (2017; Ghent, Belgium), at the Bioinformatics Interest Group meeting (2018; Leuven, Belgium), at the Melanoma Workshop 2019 (Otranto, Italy) and at the CCB-VIB Cancer Seminars (2019; Leuven).
+      
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
