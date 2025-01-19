@@ -27,9 +27,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  # - icon: at-symbol
-  #   url: ''
-  #   label: E-mail Me
+   - icon: at-symbol
+     url: 'mailto:jasper_wouters_contact@proton.me'
+     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jasperwouters/
   - icon: brands/github
@@ -71,29 +71,34 @@ education:
       - Major cellular and genetic biotechnology
       - Minor bio-nano-technology
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Senior Scientist Computational Biology
+    company_name: Galapagos
+    company_url: 'https://www.glpg.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-04-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
+      - Cell Therapy area
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
+  - position: Senior Postdoctoral Scientist
+    company_name: Lab of Computational Biology @ VIB
+    company_url: 'https://aertslab.org/'
+    company_logo: ''
+    date_start: 2016-08-01
+    date_end: 2022-03-30
+    summary: |
+      {{< resp text="Responsibilities include:" >}}
+      - Manage multiple cancer research collaborations, with academic and industry partners
+      - Implement NGS technologies (e.g. CROP-seq, 10X Chromium single-cell RNA-seq, 10X Chromium phased whole-genome DNA-seq)
+      - Supervise (co-promoter of) 2 PhD students
+      {{< /resp >}}
+      
+      {{< ach text="Achievements/milestones:" >}}
+      - test
+      {{< /ach >}}
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
