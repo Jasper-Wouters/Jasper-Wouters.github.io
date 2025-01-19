@@ -27,9 +27,9 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: ''
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: ''
+  #   label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jasperwouters/
   - icon: brands/github
@@ -42,37 +42,34 @@ profiles:
     url: https://x.com/Wouters_J_
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Biomedical Sciences
+    institution: University of Leuven (KU Leuven)
+    date_start: 2008-08-01
+    date_end: 2012-12-11
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Cancers stem cells in cutaneous melanoma_.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://kuleuven.limo.libis.be/discovery/search?query=any,contains,LIRIAS1845842&tab=LIRIAS&search_scope=lirias_profile&vid=32KUL_KUL:Lirias&offset=0'
+  - area: Mini-MBA - Entrepreneurship
+    institution: Innotek
+    date_start: 2011-01-01
+    date_end: 2011-12-31
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      [Innotek](http://www.innotek.be/en) is the INNOvation, TEchnology and Knowledge centre. Innotek provides business development support by coaching managers to be more enterprising and innovative in their business.
+  - area: Laboratory Animal Sciences – International Cert. FELASA B
+    institution: University of Leuven (KU Leuven)
+    date_start: 2008-09-01
+    date_end: 2009-06-29
+  - area: MSc and BSc Bio-engineering
+    institution: University of Leuven (KU Leuven)
+    date_start: 2003-09-01
+    date_end: 2008-06-30
     summary: |
-      GPA: 3.4/4.0
+      Cum Laude
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Major cellular and genetic biotechnology
+      - Minor bio-nano-technology
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -172,4 +169,4 @@ awards:
 
 ---
 
-I am currently Senior Scientist Computational Biology at Galapagos where I am responsible for the Cell Therapy area.
+SUMMARY: I am currently Senior Scientist Computational Biology at Galapagos where I am responsible for the Cell Therapy area.
