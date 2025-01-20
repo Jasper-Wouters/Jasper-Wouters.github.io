@@ -81,7 +81,7 @@ work:
       Responsibilities include:
       - Coordinate and manage bioinformatics support for the Cell Therapy research area
       - Data-driven target identification 
-      - BD asset evaluation
+      - Business Development asset evaluation
       - Assist in drug target discovery projects by analysing (single-cell) transcriptomics experiments
 
       Achievements/milestones:
@@ -235,4 +235,4 @@ languages:
 
 ---
 
-I am currently Senior Scientist Computational Biology at Galapagos where I am responsible for the Cell Therapy area.
+I am currently Senior Scientist Computational Biology at Galapagos where I am responsible for the Cell Therapy / CAR-T area.
