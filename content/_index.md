@@ -34,10 +34,10 @@ sections:
       # Education or Experience section first?
       is_education_first: false
   - block: about.biography
-  content:
-    title: Biography
-    username: admin
-  id: about
+    content:
+      title: Biography
+      username: admin
+    id: about
   # - block: skills
   #   content:
   #     title: Skills
