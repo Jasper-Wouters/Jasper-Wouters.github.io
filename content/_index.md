@@ -38,9 +38,69 @@ sections:
   #     title: Skills
   #     username: admin
   - block: features
+    id : skills
     content:
+      text: ""
       title: Skills
       username: admin
+      items:
+      - name: (single-cell) transcriptomics
+        description: ''
+        icon: custom/Dimensionality_reduction
+      - name: Bioinformatics | Computational biology
+        description: ''
+        icon: custom/dna-solid
+      - name: Single-cell CRISPR screens
+        description: ''
+        icon: custom/CRISPR_Cas9
+      - name: (single-cell) epigenomics
+        description: ''
+        icon: custom/chromatin-structure
+      - name: R and RStudio
+        description: ''
+        icon: devicon/r-original
+      - name: Unix
+        description: ''
+        icon: devicon/bash
+      - name: Oncology
+        description: ''
+        icon: custom/regular-crab
+      - name: AWS cloud computing
+        description: ''
+        icon: devicon/amazonwebservices-wordmark
+      - name: (R) markdown
+        description: ''
+        icon: devicon/markdown
+      - name: Git version control (gitlab, github, bitbucket)
+        description: ''
+        icon: devicon/git
+      - name: VS Code
+        description: ''
+        icon: devicon/vscode-wordmark
+      - name: High performance computing (HPC)
+        description: ''
+        icon: hero/cloud-arrow-up
+      - name: Science communication
+        description: ''
+        icon: hero/chat-bubble-oval-left
+      - name: Python
+        description: ''
+        icon: devicon/python
+      - name: Docker
+        description: ''
+        icon: devicon/docker
+      - name: (nextflow) pipelines (use of)
+        description: ''
+        icon: hero/numbered-list
+      - name: Scientific writing
+        description: ''
+        icon: hero/document-text
+      - name: Presentation skills
+        description: ''
+        icon: hero/presentation-chart-bar
+      - name: Molecular and cell biology
+        description: ''
+        icon: academicons/ideas-repec
   # - block: awards
   #   content:
   #     title: Courses
