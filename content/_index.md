@@ -46,19 +46,19 @@ sections:
       items:
       - name: (single-cell) transcriptomics
         description: ''
-        icon: custom/Dimensionality_reduction
+        icon: custom/laptop-code-solid
       - name: Bioinformatics | Computational biology
         description: ''
         icon: custom/dna-solid
       - name: Single-cell CRISPR screens
         description: ''
-        icon: custom/CRISPR_Cas9
+        icon: custom/laptop-code-solid
       - name: (single-cell) epigenomics
         description: ''
-        icon: custom/chromatin-structure
+        icon: custom/laptop-code-solid
       - name: R and RStudio
         description: ''
-        icon: devicon/r-original
+        icon: devicon/r
       - name: Unix
         description: ''
         icon: devicon/bash
@@ -91,7 +91,7 @@ sections:
         icon: devicon/docker
       - name: (nextflow) pipelines (use of)
         description: ''
-        icon: hero/numbered-list
+        icon: custom/list
       - name: Scientific writing
         description: ''
         icon: hero/document-text
