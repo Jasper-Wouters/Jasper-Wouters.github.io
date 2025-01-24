@@ -61,7 +61,7 @@ sections:
         icon: devicon/r
       - name: Unix
         description: ''
-        icon: devicon/bash
+        icon: custom/command-line
       - name: Oncology
         description: ''
         icon: custom/regular-crab
