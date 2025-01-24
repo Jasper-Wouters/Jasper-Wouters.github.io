@@ -171,11 +171,11 @@ skills:
         icon: devicon/python
       - name: RStudio
         description: ''
-        percent: 100
+        percent:
         icon: devicon/rstudio
       - name: PyTorch
         description: ''
-        percent: 40
+        percent:
         icon: devicon/pytorch
 
 languages:
