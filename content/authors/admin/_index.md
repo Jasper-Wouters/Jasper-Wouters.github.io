@@ -264,4 +264,5 @@ languages:
 
 ---
 
-I am currently Senior Scientist Computational Biology at Galapagos where I am responsible for the Cell Therapy / CAR-T area.
+Bio-engineer and computational biologist specialized in single-cell (multi-) 'omics and functional genomics.
+Currently, I am a Senior Scientist Computational Biology at Galapagos where I am responsible for the Cell Therapy / CAR-T area.
