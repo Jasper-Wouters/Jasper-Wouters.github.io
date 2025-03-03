@@ -38,8 +38,8 @@ profiles:
     url: https://orcid.org/0000-0002-7129-2990
   - icon: brands/google-scholar
     url: https://scholar.google.be/citations?user=o4cwp7AAAAAJ&hl=en
-  - icon: brands/x
-    url: https://x.com/Wouters_J_
+#  - icon: brands/x
+#    url: https://x.com/Wouters_J_
 
 education:
   - area: PhD Biomedical Sciences
