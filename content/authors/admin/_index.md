@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior Scientist Computational Biology
+role: Senior Scientist in Computational Biology | Bioinformatics Expert | Single-Cell 'Omics Specialist | Cancer Research Advocate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Galapagos
-    url: https://www.glpg.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
