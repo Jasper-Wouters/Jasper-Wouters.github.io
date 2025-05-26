@@ -272,11 +272,12 @@ As I embark on a new chapter, I’m actively seeking opportunities as a Senior o
 
 A glimpse into my background:
 
-🖥️ Bioinformatician with a decade of research experience in single-cell biology, merging wet lab and computational skills
-💉 Spearheaded projects in Cell Therapy, focusing on innovative approaches to complex biological questions
-🎯 Specialized in Oncology, driven by an enthusiasm for unraveling insights through single-cell and multi-omics technologies
-🧠 Problem-solver with a get-it-done mentality and a thirst for learning
+- 🖥️ Bioinformatician with a decade of research experience in single-cell biology, merging wet lab and computational skills
+- 💉 Spearheaded projects in Cell Therapy, focusing on innovative approaches to complex biological questions
+- 🎯 Specialized in Oncology, driven by an enthusiasm for unraveling insights through single-cell and multi-omics technologies
+- 🧠 Problem-solver with a get-it-done mentality and a thirst for learning
+
 Looking for:
 
-💼 Roles as a Senior or Principal Bioinformatician, Bioinformatics Scientist, Bioinformatics Analyst, or Computational Biologist
-🌎 Opportunities in Belgium (hybrid) or remote positions across Europe
+- 💼 Roles as a Senior or Principal Bioinformatician, Bioinformatics Scientist, Bioinformatics Analyst, or Computational Biologist
+- 🌎 Opportunities in Belgium (hybrid) or remote positions across Europe
