@@ -264,16 +264,16 @@ languages:
 
 ---
 
-As a Senior Scientist specializing in Computational Biology, I have dedicated over a decade to unraveling the complexities of cancer research and cell therapy. Armed with a PhD in Biomedical Sciences from KU Leuven and a mini-MBA in Entrepreneurship from Innotek, I thrive at the intersection of data and biology.
+As a Senior Scientist specializing in Computational Biology, I have dedicated over a decade to unraveling the complexities of cancer heterogeneity and cell therapy. Armed with a PhD in Biomedical Sciences from KU Leuven and a mini-MBA in Entrepreneurship from Innotek, I thrive at the intersection of data and biology.
 
-My expertise lies in data-driven target identification and drug target discovery projects, particularly utilizing single-cell transcriptomics. I have successfully integrated several promising targets into research pipelines, managed multiple collaborations, led computational investigations, and implemented NGS technologies. My passion is to leverage my skills to advance cell therapy and improve patient outcomes.
+My expertise lies in leading and executing computational biology projects in drug and target discovery, particularly utilizing single-cell 'omics. I have successfully integrated several promising targets into research pipelines, managed multiple collaborations, led computational investigations, and implemented NGS technologies. My passion is to leverage my skills to advance cancer therapy and improve patient outcomes.
 
-As I embark on a new chapter, I’m actively seeking opportunities as a Senior or Principal Scientist in Computational Biology or Bioinformatics within the pharma, biotech, or consulting industries. If you know of any relevant openings or simply want to connect, please don’t hesitate to reach out! And if you’re up for a hike while discussing bioinformatics, count me in! 🥾
+As I embark on a new chapter, I’m actively seeking opportunities as a Senior or Principal Scientist in Computational Biology or Bioinformatics within the pharma, biotech, or consulting industries. If you know of any relevant openings or simply want to connect, please don’t hesitate to reach out! And if you’re up for a hike while discussing (data) science, count me in! 🥾
 
 A glimpse into my background:
 
-- 🖥️ Bioinformatician with a decade of research experience in single-cell biology, merging wet lab and computational skills
-- 💉 Spearheaded projects in Cell Therapy, focusing on innovative approaches to complex biological questions
+- 🖥️ Bioinformatician with a decade of research experience in single-cell biology, combining wet lab and computational skills
+- 💉 Spearheaded projects in Cell Therapy, focusing on data-driven, innovative approaches to complex biological questions
 - 🎯 Specialized in Oncology, driven by an enthusiasm for unraveling insights through single-cell and multi-omics technologies
 - 🧠 Problem-solver with a get-it-done mentality and a thirst for learning
 
