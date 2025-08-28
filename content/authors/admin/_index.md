@@ -38,7 +38,7 @@ profiles:
     url: https://orcid.org/0000-0002-7129-2990
   - icon: brands/google-scholar
     url: https://scholar.google.be/citations?user=o4cwp7AAAAAJ&hl=en
-  - icon: codeberg-logo_icon_white
+  - icon: custom/codeberg-logo_icon_white
     url: https://codeberg.org/jasper-wouters
 
 education:
