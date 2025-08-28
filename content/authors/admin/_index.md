@@ -32,14 +32,14 @@ profiles:
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/jasperwouters/
+  - icon: custom/codeberg-logo_icon_white
+    url: https://codeberg.org/jasper-wouters
   - icon: brands/github
     url: https://github.com/Jasper-Wouters
   - icon: brands/orcid
     url: https://orcid.org/0000-0002-7129-2990
   - icon: brands/google-scholar
     url: https://scholar.google.be/citations?user=o4cwp7AAAAAJ&hl=en
-  - icon: custom/codeberg-logo_icon_white
-    url: https://codeberg.org/jasper-wouters
 
 education:
   - area: PhD Biomedical Sciences
