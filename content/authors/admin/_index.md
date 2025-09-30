@@ -76,7 +76,7 @@ work:
     company_url: 'https://www.glpg.com/'
     company_logo: ''
     date_start: 2022-04-01
-    date_end: ''
+    date_end: '2025-03-31'
     summary: |
       Responsibilities include:
       - Coordinate and manage bioinformatics support for the Cell Therapy research area
@@ -276,8 +276,3 @@ A glimpse into my background:
 - 💉 Spearheaded projects in Cell Therapy, focusing on data-driven, innovative approaches to complex biological questions
 - 🎯 Specialized in Oncology, driven by an enthusiasm for unraveling insights through single-cell and multi-omics technologies
 - 🧠 Problem-solver with a get-it-done mentality and a thirst for learning
-
-Looking for:
-
-- 💼 Roles as a Senior or Principal Bioinformatician, Bioinformatics Scientist, Bioinformatics Analyst, or Computational Biologist
-- 🌎 Opportunities in Belgium (hybrid) or remote positions across Europe
