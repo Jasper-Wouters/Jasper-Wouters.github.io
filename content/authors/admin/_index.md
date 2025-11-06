@@ -76,8 +76,9 @@ work:
     company_url: 'https://onebiosciences.fr/'
     company_logo: ''
     date_start: 2025-11-01
-    date_end: 'Present'
+    date_end: Present
     summary: |
+
 
   - position: Senior Scientist Computational Biology
     company_name: Galapagos
