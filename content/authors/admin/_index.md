@@ -78,6 +78,7 @@ work:
     date_start: 2025-11-01
     date_end: 'Now'
     summary: |
+    
   - position: Senior Scientist Computational Biology
     company_name: Galapagos
     company_url: 'https://www.glpg.com/'
