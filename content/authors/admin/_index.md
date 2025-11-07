@@ -71,12 +71,19 @@ education:
       - Major cellular and genetic biotechnology
       - Minor bio-nano-technology
 work:
+  - position: Senior Research Scientist Computational Biology
+    company_name: One Biosciences
+    company_url: 'https://onebiosciences.fr/'
+    company_logo: ''
+    date_start: 2025-11-01
+    date_end: 'Now'
+    summary: |
   - position: Senior Scientist Computational Biology
     company_name: Galapagos
     company_url: 'https://www.glpg.com/'
     company_logo: ''
     date_start: 2022-04-01
-    date_end: '2025-03-31'
+    date_end: 2025-03-31
     summary: |
       Responsibilities include:
       - Coordinate and manage bioinformatics support for the Cell Therapy research area
@@ -87,7 +94,6 @@ work:
       Achievements/milestones:
       - Analysis workflow for data-driven (single and combo) target identification 
       - Identified several potential targets, with two successfully integrated into the company's pipeline
-
   - position: Senior Postdoctoral Scientist
     company_name: Lab of Computational Biology @ VIB
     company_url: 'https://aertslab.org/'
