@@ -78,7 +78,13 @@ work:
     date_start: 2025-11-01
     date_end: ''
     summary: |
-
+      Responsibilities include:
+      - Co-lead the development and optimization of snRNA-seq on clinical FFPE samples
+        - Provide bioinformatics support to guide wet-lab protocol improvements
+        - Optimize an FFPE-focused computational pipeline for snRNA-seq data processing, QC and downstream analysis
+        - Perform comparative analyses of single‑cell technologies
+      - Lead the retrospective analyses of single‑cell predictors of response to antibody–drug conjugates (ADCs) within academic collaborations
+      - Lead data analysis for a preclinical research projects in collaboration with pharma partners
   - position: Senior Scientist Computational Biology
     company_name: Galapagos
     company_url: 'https://www.glpg.com/'
