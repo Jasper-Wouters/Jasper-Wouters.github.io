@@ -79,7 +79,7 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-      - Co-lead the development and optimization of snRNA-seq on clinical FFPE samples
+      - Co-lead the development and optimization of snRNA-seq on clinical FFPE samples ([see preprint](https://www.biorxiv.org/content/10.64898/2026.07.23.740343v2))
         - Provide bioinformatics support to guide wet-lab protocol improvements
         - Optimize an FFPE-focused computational pipeline for snRNA-seq data processing, QC and downstream analysis
         - Perform comparative analyses of single‑cell technologies
